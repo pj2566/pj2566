@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prashuk Jain</h1>
 <h3 align="center">A passionate Coder with intrest in fields like IOT, AI/ML,Blockchains</h3>
 
-- 🔭 I’m currently working on **Spotify Song Dominant Color Extractor**
+- 🔭 I’m currently working on **Game Dev**
 
-- 🌱 I’m currently learning **Spotify API integration with diff IOT devices**
+- 🌱 I’m currently learning ** API integration with diff IOT devices**
 
 - 📫 How to reach me **prasukj123@gmail.com, https://www.linkedin.com/in/prasuk-jain-7a814a171/**
 
